@@ -12,4 +12,5 @@ git config --global user.email "nobody@concourse.ci"
 git config --global user.name "Concourse"
 
 git add .
-git commit -m "Bumped date"
+git commit -m "Bumpeded date"
+git push
