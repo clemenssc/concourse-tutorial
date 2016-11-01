@@ -14,3 +14,6 @@ git config --global user.name "Concourse"
 git add .
 git commit -m "Bumpeded date"
 git push
+
+ls -ltra
+uname
